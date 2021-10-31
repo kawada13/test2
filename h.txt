@@ -4,3 +4,6 @@ rebase
 
 
 conflict
+
+
+変更
