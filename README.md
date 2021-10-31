@@ -23,3 +23,5 @@ rebaseの練習です
 
 
 変更じゃ
+
+remote
